@@ -41,3 +41,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<img width="777" alt="Ridgeline image" src="https://user-images.githubusercontent.com/93130320/141107178-68f34296-3edf-49cb-b619-6905064b566a.png">
