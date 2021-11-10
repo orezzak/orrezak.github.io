@@ -1,11 +1,11 @@
 # 1. Bar chart
 
-* Plataforma de visualizacion: [Infogram](https://infogram.com/madrid-traffic-accidents-2021-1h8n6m3nzyr5j4x?live)
-* Técnica de visualización: Grafico de barras
-* Tipo de datos:
-* Tipologia de los datos: Estructurados , csv
-* Origen de los datos:
-* Tematica: Accidentes de trafico en la ciudad de Madrid en el año 2021
+* **Plataforma de visualizacion:** [Infogram](https://infogram.com/madrid-traffic-accidents-2021-1h8n6m3nzyr5j4x?live)
+* **Técnica de visualización:** Grafico de barras
+* **Tipo de datos:**
+* **Tipologia de los datos:** Estructurados , csv
+* **Origen de los datos:**
+* **Tematica:** Accidentes de trafico en la ciudad de Madrid en el año 2021
 
 # 2. Network diagram 
 
@@ -18,9 +18,9 @@
 
 # 3. Ridgeline Chart 
 
-* Plataforma de visualizacion: [Jupyter Notebook & Github Page](https://orezzak.github.io/orrezak.github.io/)
-* Técnica de visualización: Grafico de densidad
-* Tipo de datos:
-* Tipologia de los datos: Estructurados , csv
-* Origen de los datos:
-* Tematica: Precio de los alquileres vacaciones en las principales ciudades de España
+* **Plataforma de visualizacion: [Jupyter Notebook & Github Page](https://orezzak.github.io/orrezak.github.io/)
+* **Técnica de visualización:** Grafico de densidad
+* **Tipo de datos:**
+* **Tipologia de los datos:** Estructurados , csv
+* **Origen de los datos:**
+* **Tematica:** Precio de los alquileres vacaciones en las principales ciudades de España
