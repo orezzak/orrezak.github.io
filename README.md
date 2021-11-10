@@ -14,7 +14,7 @@
 * **Tipo de datos:**
 * **Tipologia de los datos:** Estructurados , csv
 * **Origen de los datos:** [data.world](https://data.world/abhinavr8/the-office-scripts-dataset)
-* **Tematica:** Interaccion y relacion de los personajes de la serie The Office en la temporada 1
+* **Tematica:** Interaccion y relacion de los personajes de la serie The [Office](https://www.sensacine.com/series/serie-199/temporada-724/reparto/) en la temporada 1
 
 # 3. Ridgeline Chart 
 
