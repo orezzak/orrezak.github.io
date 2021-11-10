@@ -9,7 +9,7 @@
 
 # 2. Network diagram 
 
-* Plataforma de visualizacion: [Flourish](https://public.flourish.studio/visualisation/7741938/)
+* **Plataforma de visualizacion: [Flourish](https://public.flourish.studio/visualisation/7741938/)
 * Técnica de visualización: Diagrama de red / Grafo
 * Tipo de datos:
 * Tipologia de los datos: Estructurados , csv
@@ -18,7 +18,7 @@
 
 # 3. Ridgeline Chart 
 
-* Plataforma de visualizacion: [Jupyter Notebbok & Github Page](https://orezzak.github.io/orrezak.github.io/)
+* Plataforma de visualizacion: [Jupyter Notebook & Github Page](https://orezzak.github.io/orrezak.github.io/)
 * Técnica de visualización: Grafico de densidad
 * Tipo de datos:
 * Tipologia de los datos: Estructurados , csv
