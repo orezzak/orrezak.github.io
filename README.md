@@ -9,12 +9,12 @@
 
 # 2. Network diagram 
 
-* **Plataforma de visualizacion: [Flourish](https://public.flourish.studio/visualisation/7741938/)
-* Técnica de visualización: Diagrama de red / Grafo
-* Tipo de datos:
-* Tipologia de los datos: Estructurados , csv
-* Origen de los datos:
-* Tematica: Interaccion y relacion de los personajes de la serie The Office en la temporada 1
+* **Plataforma de visualizacion:** [Flourish](https://public.flourish.studio/visualisation/7741938/)
+* **Técnica de visualización:** Diagrama de red / Grafo
+* **Tipo de datos:**
+* **Tipologia de los datos:** Estructurados , csv
+* **Origen de los datos:**
+* **Tematica:** Interaccion y relacion de los personajes de la serie The Office en la temporada 1
 
 # 3. Ridgeline Chart 
 
