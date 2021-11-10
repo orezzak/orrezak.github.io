@@ -4,7 +4,7 @@
 * **Técnica de visualización:** Grafico de barras
 * **Tipo de datos:**
 * **Tipologia de los datos:** Estructurados , csv
-* **Origen de los datos:** [datos.madrid.].(https://datos.madrid.es/sites/v/index.jsp?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD)
+* **Origen de los datos:** [datos.madrid](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD)
 * **Tematica:** Accidentes de trafico en la ciudad de Madrid en el año 2021
 
 # 2. Network diagram 
