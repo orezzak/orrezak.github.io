@@ -13,7 +13,7 @@
 * **Técnica de visualización:** Diagrama de red / Grafo
 * **Tipo de datos:**
 * **Tipologia de los datos:** Estructurados , csv
-* **Origen de los datos:**
+* **Origen de los datos:** [data.world](https://data.world/abhinavr8/the-office-scripts-dataset)
 * **Tematica:** Interaccion y relacion de los personajes de la serie The Office en la temporada 1
 
 # 3. Ridgeline Chart 
@@ -22,7 +22,7 @@
 * **Técnica de visualización:** Grafico de densidad
 * **Tipo de datos:**
 * **Tipologia de los datos:** Estructurados , csv
-* **Origen de los datos:**
+* **Origen de los datos:**[kaggle](https://www.kaggle.com/datamarket/alojamientos-tursticos)
 * **Tematica:** Precio de los alquileres vacaciones en las principales ciudades de España
 
 
