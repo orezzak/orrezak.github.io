@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+# 1. Bar chart
 
 You can use the [editor on GitHub](https://github.com/orezzak/orrezak.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-You can use the [HTML](https://github.com/orezzak/orrezak.github.io/blob/main/Ridgeline%20chart-PEC2.html) to maintain and preview the content for your website in Markdown files.
+# 2. Network diagram 
+
+
+You can use the [editor on GitHub](https://github.com/orezzak/orrezak.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+# 3. Network diagram 
+
+Ridgeline Chart
 
 
 
