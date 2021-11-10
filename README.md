@@ -7,9 +7,9 @@ You can use the [editor on GitHub](https://github.com/orezzak/orrezak.github.io/
 
 You can use the [editor on GitHub](https://github.com/orezzak/orrezak.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-# 3. Network diagram 
+# 3. Ridgeline Chart 
 
-Ridgeline Chart
+
 
 
 
