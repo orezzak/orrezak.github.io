@@ -18,7 +18,7 @@
 
 # 3. Ridgeline Chart 
 
-* **Plataforma de visualizacion: [Jupyter Notebook & Github Page](https://orezzak.github.io/orrezak.github.io/)
+* **Plataforma de visualizacion:** [Jupyter Notebook & Github Page](https://orezzak.github.io/orrezak.github.io/)
 * **Técnica de visualización:** Grafico de densidad
 * **Tipo de datos:**
 * **Tipologia de los datos:** Estructurados , csv
