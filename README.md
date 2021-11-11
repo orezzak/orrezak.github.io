@@ -10,7 +10,7 @@
 # 2. Network diagram 
 
 * **Plataforma de visualizacion:** [Flourish](https://public.flourish.studio/visualisation/7741938/)
-* **Técnica de visualización:** Diagrama de red / Grafo
+* **Técnica de visualización:** [Diagrama de red / Grafo] (https://datavizcatalogue.com/methods/network_diagram.html)
 * **Tipo de datos:**
 * **Tipologia de los datos:** Estructurados , csv
 * **Origen de los datos:** [data.world](https://data.world/abhinavr8/the-office-scripts-dataset)
@@ -19,8 +19,8 @@
 # 3. Ridgeline Chart 
 
 * **Plataforma de visualizacion:** [Jupyter Notebook & Github Page](https://orezzak.github.io/orrezak.github.io/)
-* **Técnica de visualización:** Grafico de densidad
-* **Tipo de datos:**
+* **Técnica de visualización:** [Grafico de densidad/distribucion] (https://www.data-to-viz.com/graph/ridgeline.html)
+* **Tipo de datos:** 
 * **Tipologia de los datos:** Estructurados , csv
 * **Origen de los datos:** [kaggle](https://www.kaggle.com/datamarket/alojamientos-tursticos)
 * **Tematica:** Precio de los alquileres vacaciones en las principales ciudades de España
