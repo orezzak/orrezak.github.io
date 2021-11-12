@@ -25,8 +25,12 @@
 * **Origen de los datos:** [kaggle](https://www.kaggle.com/datamarket/alojamientos-tursticos)
 * **Tematica:** Precio de los alquileres vacaciones en las principales ciudades de España
 
-## 3.1 Ingesta
+## 3.1 Ingesta & Preprocesado 
 
-## 3.1 Preprocesado
+![Ingest and preprocesing](https://user-images.githubusercontent.com/93130320/141484355-09b039b5-83e6-4ea8-8305-84d9fe69dbd7.jpg)
 
-## 3.1 Explotacion
+## 3.2 Explotacion
+
+![Plot script](https://user-images.githubusercontent.com/93130320/141484397-670e0a88-04ba-42c1-8212-e7d54a825169.jpg)
+
+![Plot](https://user-images.githubusercontent.com/93130320/141484421-6f26106d-1eb8-4727-bcd3-3b0c87898a99.jpg)
