@@ -10,7 +10,7 @@
 # 2. Network diagram 
 
 * **Plataforma de visualizacion:** [Flourish](https://public.flourish.studio/visualisation/7741938/)
-* **Técnica de visualización:** [Diagrama de red ó Grafo - Estructura Network/Minimo una realcion entre dos nodos](https://datavizcatalogue.com/methods/network_diagram.html)
+* **Técnica de visualización:** [Diagrama de red ó Grafo - Estructura Network/Minimo una relacion entre dos nodos](https://datavizcatalogue.com/methods/network_diagram.html)
 * **Tipo de datos:** [Red](https://www.data-to-viz.com/)
 * **Tipologia de los datos:** Estructurados , csv
 * **Origen de los datos:** [data.world](https://data.world/abhinavr8/the-office-scripts-dataset)
